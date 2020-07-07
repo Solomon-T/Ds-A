@@ -1,0 +1,2 @@
+- its arr.length not arr.length()
+- string doesn't have a foreach

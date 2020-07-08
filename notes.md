@@ -6,3 +6,5 @@
         console.log(args);
     }
     - areThereDuplicates(1,2,3) => [1,2,3]
+
+# spilce is just for arr and how does it work?

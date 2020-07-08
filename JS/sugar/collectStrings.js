@@ -1,3 +1,5 @@
+// Section 9: Coding Exercise 23
+
 const obj = {
     stuff: "foo",
     data: {
@@ -33,3 +35,6 @@ function collectStrings(obj) {
 }
 
 console.log(collectStrings(obj)); // ["foo", "bar", "baz"]
+
+//  what I have to know
+    

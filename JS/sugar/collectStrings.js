@@ -37,4 +37,11 @@ function collectStrings(obj) {
 console.log(collectStrings(obj)); // ["foo", "bar", "baz"]
 
 //  what I have to know
+    // Object.values(myObj) and not myPbj.values()
     
+    // Cheking types
+        // typeof (myObj) => 'object';
+        // typeof (myStr) => 'string';
+        // typeof (myNum) => 'number';
+    
+    // Well see
